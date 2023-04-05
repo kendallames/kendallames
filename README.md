@@ -7,6 +7,7 @@ My name is Kendall and I am a data science student at Bloomtech. I graduated fro
 
 - 🔭 I’m currently working on strengthening my skills and understanding of machine learning.
 - 🤔 I’m looking for help with understanding technical questions in order to be able to succeed in interviews. 
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/kendall-ames/).
 
 # Skills Learned at Bloomtech
 - Python
