@@ -1,3 +1,6 @@
+![1583217311227](https://user-images.githubusercontent.com/117927141/230237149-7b18ab62-b5c4-4f39-bceb-75adddce27a5.png)
+
+
 ### Hi there 👋
 
 My name is Kendall and I am a data science student at Bloomtech. I graduated from the University of Oregon with a B.S. in Economics in the spring of 2022. During my senior year of college I enjoyed my programming classes which lead me to Bloomtech to further grow my skills. 
