@@ -5,6 +5,18 @@ My name is Kendall and I am a data science student at Bloomtech. I graduated fro
 - 🔭 I’m currently working on strengthening my skills and understanding of machine learning.
 - 🤔 I’m looking for help with understanding technical questions in order to be able to succeed in interviews. 
 
+# Skills Learned at Bloomtech
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- SQL
+- R
+- Flask
+- Matplotlib
+- Predictive Analysis
+- Multivariate Regressions
+- Machine Learning
 
 <!--
 **kendallames/kendallames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
