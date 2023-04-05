@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Kendall and I am a data science student at Bloomtech. I graduated from the University of Oregon with a B.S. in Economics in the spring of 2022. During my senior year of college I enjoyed my programming classes which lead me to Bloomtech to further grow my skills. 
+
+- 🔭 I’m currently working on strengthening my skills and understanding of machine learning.
+- 🤔 I’m looking for help with understanding technical questions in order to be able to succeed in interviews. 
+
+
 <!--
 **kendallames/kendallames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
