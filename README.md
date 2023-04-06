@@ -6,7 +6,7 @@
 My name is Kendall and I am a data science student at Bloomtech. I graduated from the University of Oregon with a B.S. in Economics in the spring of 2022. During my senior year of college I enjoyed my programming classes which lead me to Bloomtech to further grow my skills. I am looking forward to beginning my career in data science!
 
 - 🔭 I’m currently working on a few machine learning projects using NLP, sk-learn, Pandas, and NumPy to wrangle data and vectorized into predictive analysis models 
-- 🤔 I’m exploring ML/MLP engineering business solutions and new Data Science projects
+- 🤔 I’m exploring ML/NLP engineering business solutions and new Data Science projects
 
 # Skills Learned at Bloomtech
 - Python
